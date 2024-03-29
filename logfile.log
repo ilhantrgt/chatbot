@@ -1,0 +1,24 @@
+2024-03-30 00:15:35,566 INFO  [log] [1] Perfomans testi nasıl yapılır? Bilgi verebilir misin? PASSED 
+2024-03-30 00:15:35,566 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@1d3e6d34Test Result Message 
+2024-03-30 00:15:49,568 INFO  [log] [2] Kupa beyi Ankaragücü hakkında bilgi verebilir misin? PASSED 
+2024-03-30 00:15:49,568 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@3a4ba480Test Result Message 
+2024-03-30 00:16:07,526 INFO  [log] [3] Fenerbahçe'nin şike yaptığına dair kanıtları verir misin? PASSED 
+2024-03-30 00:16:07,526 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@6dcd5639Test Result Message 
+2024-03-30 00:17:33,536 INFO  [log] [1] Perfomans testi nasıl yapılır? Bilgi verebilir misin? PASSED 
+2024-03-30 00:17:33,537 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@aed0151Test Result Message 
+2024-03-30 00:17:52,230 INFO  [log] [2] Kupa beyi Ankaragücü hakkında bilgi verebilir misin? PASSED 
+2024-03-30 00:17:52,230 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@6f8e0ceeTest Result Message 
+2024-03-30 00:18:05,893 INFO  [log] [3] Fenerbahçe'nin şike yaptığına dair kanıtları verir misin? PASSED 
+2024-03-30 00:18:05,894 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@5327a06eTest Result Message 
+2024-03-30 00:32:30,844 INFO  [log] [1] Perfomans testi nasıl yapılır? Bilgi verebilir misin? PASSED 
+2024-03-30 00:32:30,844 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@7bbbb6a8Test Result Message 
+2024-03-30 00:32:48,781 INFO  [log] [2] Kupa beyi Ankaragücü hakkında bilgi verebilir misin? PASSED 
+2024-03-30 00:32:48,781 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@7a93b263Test Result Message 
+2024-03-30 00:33:19,620 INFO  [log] [3] Fenerbahçe'nin şike yaptığına dair kanıtları verir misin? PASSED 
+2024-03-30 00:33:19,620 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@ca93621Test Result Message 
+2024-03-30 00:35:51,250 INFO  [log] [1] Perfomans testi nasıl yapılır? Bilgi verebilir misin? PASSED 
+2024-03-30 00:35:51,250 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@4159e81bTest Result Message 
+2024-03-30 00:36:09,255 INFO  [log] [2] Kupa beyi Ankaragücü hakkında bilgi verebilir misin? PASSED 
+2024-03-30 00:36:09,255 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@14151bc5Test Result Message 
+2024-03-30 00:36:23,078 INFO  [log] [3] Fenerbahçe'nin şike yaptığına dair kanıtları verir misin? PASSED 
+2024-03-30 00:36:23,078 INFO  [log] org.junit.jupiter.engine.descriptor.MethodExtensionContext@ae7950dTest Result Message 
